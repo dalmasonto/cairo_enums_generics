@@ -93,7 +93,7 @@ fn main() {
 
     let fruit = calculator::return_a_fruit();
 
-    println!("Fruit: {:?}", fruit.name);
+    println!("Fruit: {:?}", fruit);
 
     let _vegetable = Vegetable { name: "SukumaWiki" };
 
